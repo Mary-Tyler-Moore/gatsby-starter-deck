@@ -55,7 +55,39 @@ Examples:
 ![Monkey](//i.imgur.com/PnbINJ6.gif)
 ```
 
-## Authors
-
-- Fabian Schultz ([@fschultz\_](https://twitter.com/fschultz_))
-- Frank Murphy ([AnIrishDuck](https://github.com/AnIrishDuck))
+Backend Integration
+Everything is stored and retrieved to and from Firebase Firestore
+Categories, listings, custom filters, photos, users, favorites
+All uploaded photos are being stored in Firebase Storage
+Maps Integration
+Google Maps for Android and Apple Maps for iOS
+Interactive map view, to enable users to search for properties in a certain location
+“Save for later” functionality
+Reviews and Ratings
+You can enable reviews and ratings for the real estate properties listed on the app
+Users will be able to add text reviews and rate the listings
+The rating is automatically computed and displayed in the app
+Custom Filters
+You can add as many filters as you want
+They are automatically integrated into the advanced search & filtering flow
+Search & Filtering Functionality
+Automatically filter out properties based on filters
+The search results can be displayed in both a list view or a map view
+All the search results are automatically fetched from the backend server
+Quick Submission
+Support for title, description, price, category, photos, location, filter values
+You and/or your users can take photos from the phone library or with the phone camera
+There’s a location picker to choose the exact location of a listing (by placing a pin on an interactive map)
+Everything is automatically uploaded to the backend server
+Photo Gallery
+Each property listing can contain as many photos as you want
+User Management
+Login
+Registration
+Log out
+All accounts are being automatically stored and retrieved with Firebase Auth
+Categories Screen
+Listings Screen
+Single Listing Screen
+Tab bar navigation
+Log in with Facebook
