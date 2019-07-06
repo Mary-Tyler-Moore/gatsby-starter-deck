@@ -13,7 +13,7 @@
 
 ![screen-1](./screen-2.png)
 
-## Login or Signup
+## Custom welcome message
 
 ---
 
@@ -29,7 +29,7 @@
 
 ---
 
-![screen-1](./screen-large.png)
+![screen-1](./screen-medium.png)
 
 ## Firebase Authentication
 
