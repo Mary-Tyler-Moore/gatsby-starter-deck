@@ -29,9 +29,9 @@
 
 ---
 
-![screen-1](./screen-1.png)
+![screen-1](./screen-large.png)
 
-## User authentication with Firebase Auth
+## Firebase Authentication
 
 ---
 
