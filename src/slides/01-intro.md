@@ -1,15 +1,26 @@
-# Gatsby Deck
 
-Create presentations using Gatsby & React.
+![Logo](./logo.png)
+
+## A mobile application available of IOS and Android.
 
 ---
+## User Onboarding
 
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+![screen-1](./screen-1.png)
 
+>Inscrutable icons litter the face of the devices even though the research
+
+---
+## Main Screens
+
+![screen-1](./screen-1.png)
+
+>Inscrutable icons litter the face of the devices even though the research
+
+---
+## Secondary Screens
+---
+## Property Submission
 ---
 
 # 🤫

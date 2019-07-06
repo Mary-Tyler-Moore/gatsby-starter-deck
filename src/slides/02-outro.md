@@ -1,8 +1,7 @@
 Images can be embedded from the local filesystem!
 
-![xkcd on standards](./standards.png)
+![Monkey](//i.imgur.com/PnbINJ6.gif)
 
-(attribution: xkcd.com)
 
 ---
 
