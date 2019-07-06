@@ -1,7 +1,7 @@
 
 ![Logo](./logo.png)
 
-## A mobile application available of IOS and Android.
+## A mobile application available on IOS and Android.
 
 ---
 ## User Onboarding
