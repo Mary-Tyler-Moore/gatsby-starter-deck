@@ -11,9 +11,22 @@
 >Inscrutable icons litter the face of the devices even though the research
 
 ---
-## Main Screens
+## Login or Signup
 
-![screen-1](./screen-1.png)
+![screen-1](./screen-2.png)
+
+Login or Signup
+
+---
+## Use email address or Facebook to Login
+
+![screen-1](./screen-3.png)
+
+>Inscrutable icons litter the face of the devices even though the research
+---
+## Or create a new account
+
+![screen-1](./screen-4.png)
 
 >Inscrutable icons litter the face of the devices even though the research
 
