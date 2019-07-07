@@ -5,39 +5,39 @@
 
 ---
 
-## Testing image sizes
-
 ![612](./screen-612.png)
 
----
-
 ## Testing image sizes
+
+---
 
 ![756](./screen-756.png)
 
----
-
 ## Testing image sizes
+
+---
 
 ![918](./screen-918.png)
 
----
-
 ## Testing image sizes
 
+---
+
 ![1071](./screen-1071.png)
+
+## Testing image sizes
 
 ---
 
 ![pmg-2](./pmg-2.gif)
 
-## User Onboarding
+## User Onboarding (481x872)
 
 ---
 
-## 1071x1071
-
 ![1071](./screen-1071.png)
+
+## 1071x1071
 
 ---
 
