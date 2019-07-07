@@ -29,7 +29,7 @@
 
 ---
 
-<img src=".pmg-2.gif" height="612">
+<img src="./pmg-2.gif" height="612">
 
 ## User Onboarding (481x872)
 
