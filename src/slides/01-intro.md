@@ -29,7 +29,7 @@
 
 ---
 
-![pmg-2](./pmg-2.gif)
+![pmg-2](<img src="https://github.com/Mary-Tyler-Moore/gatsby-starter-deck/blob/master/src/slides/pmg-2.gif?raw=true" width="auto" height="612" title="onboarding">)
 
 ## User Onboarding (481x872)
 
