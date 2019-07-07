@@ -5,6 +5,30 @@
 
 ---
 
+## Testing image sizes
+
+![612](./screen-612.png)
+
+---
+
+## Testing image sizes
+
+![756](./screen-756.png)
+
+---
+
+## Testing image sizes
+
+![918](./screen-918.png)
+
+---
+
+## Testing image sizes
+
+![1071](./screen-1071.png)
+
+---
+
 ![pmg-2](./pmg-2.gif)
 
 ## User Onboarding
@@ -35,7 +59,6 @@
 
 ---
 
-![screen-1](./pmg-1.gif)
 
 ## Or create a new account
 
