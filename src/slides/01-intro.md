@@ -5,6 +5,12 @@
 
 ---
 
+![pmg-2](./pmg-2.gif)
+
+## User Onboarding
+
+---
+
 ![screen-1](./screen-1-medium.png)
 
 ## PMG Rentals App
