@@ -11,7 +11,7 @@
 
 ---
 
-![screen-1](./screen-2.png)
+![screen-1](./welcome-screen.png)
 
 ## Custom welcome message
 
