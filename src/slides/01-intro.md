@@ -23,7 +23,7 @@
 
 ---
 
-![screen-1](./screen-4.png)
+![screen-1](./pmg-1.gif)
 
 ## Or create a new account
 
