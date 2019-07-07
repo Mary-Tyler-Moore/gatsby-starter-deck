@@ -5,7 +5,7 @@
 
 ---
 
-![screen-1](./screen-1.png)
+![screen-1](./screen-1-medium.png)
 
 ## PMG Rentals App
 
