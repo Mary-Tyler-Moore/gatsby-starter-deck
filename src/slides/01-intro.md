@@ -5,6 +5,12 @@
 
 ---
 
+<img src="./pmg-2.gif" height="765">
+
+## User Onboarding
+
+---
+
 ![612](./screen-612.png)
 
 ## Testing image sizes
@@ -26,12 +32,6 @@
 ![1071](./screen-1071.png)
 
 ## Testing image sizes
-
----
-
-<img src="./pmg-2.gif" height="612">
-
-## User Onboarding (481x872)
 
 ---
 
